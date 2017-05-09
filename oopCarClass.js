@@ -30,7 +30,7 @@ function porche(){
 	this.name = name;
 }
 porche.prototype = new Car();
-
+3
 function truck(name){
 	this.name = name;
 	this.wheels =8;
